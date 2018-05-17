@@ -1,0 +1,3 @@
+UPDATE PROGRAMMA
+SET Sala = "S4"
+WHERE Sala = "S2"
